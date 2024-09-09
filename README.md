@@ -1,1 +1,8 @@
-# 0-1-Practice-B
+# 0-1-Practice-A
+
+## Let's practice importing and exporting this github assigment into Glitch
+
+### Directions
+Play with colors.  Change the colors in this index.html file.
+
+Use this link as a resource (https://www.w3schools.com/colors/colors_names.asp)
