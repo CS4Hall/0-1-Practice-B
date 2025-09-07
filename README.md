@@ -1,6 +1,6 @@
 # 0-1-Practice-B
 
-## Let's practice importing and exporting this github assigment into Glitch
+## Let's practice importing and exporting this github assigment into Codespaces
 
 ### Directions
 Play with colors.  Change the colors in this index.html file.
